@@ -7,3 +7,7 @@ eval_results/
 eval_data/
 *.egg-info/
 .env
+
+
+# Ignore all files in the .idea folder by default
+.idea/
